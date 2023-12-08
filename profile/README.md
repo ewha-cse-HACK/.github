@@ -16,14 +16,18 @@
 <details>
 <summary>펼쳐서 포스터 보기</summary>
 <div markdown="1">
+   
 ![image](https://github.com/ewha-cse-HACK/.github/assets/67634926/b57cbd9e-42e4-4b60-a8c2-7c9a5cb87fa7)
+
 </div>
 </details>
 <br>
 <br>
 
 ## 🎨 App UI
-<img src="https://github.com/ewha-cse-HACK/.github/assets/100411946/00d5c0db-9ac1-49ac-a4e6-e46b8a9ef91d">
+
+<img src="https://github.com/ewha-cse-HACK/.github/assets/100411946/00d5c0db-9ac1-49ac-a4e6-e46b8a9ef91d" {width="80%"}>
+
 <br>
 <br>
 
