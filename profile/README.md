@@ -16,16 +16,15 @@
 <details>
 <summary>펼쳐서 포스터 보기</summary>
 <div markdown="1">
-
-<img src="https://github.com/ewha-cse-HACK/.github/assets/100411946/00d5c0db-9ac1-49ac-a4e6-e46b8a9ef91d">
+![image](https://github.com/ewha-cse-HACK/.github/assets/67634926/b57cbd9e-42e4-4b60-a8c2-7c9a5cb87fa7)
 </div>
 </details>
-
 <br>
 <br>
 
 ## 🎨 App UI
-![App UI](https://github.com/ewha-cse-HACK/.github/assets/100411946/00d5c0db-9ac1-49ac-a4e6-e46b8a9ef91d)
+<img src="https://github.com/ewha-cse-HACK/.github/assets/100411946/00d5c0db-9ac1-49ac-a4e6-e46b8a9ef91d">
+<br>
 <br>
 
 ## 🖥️ Demo video
@@ -38,6 +37,7 @@
 - 동작환경  chrome 119.0.6045.105
 - 개발환경  springboot 3.1.1, react 18.2.0
 - react, springboot
+<br>
 <br>
 
 ## ⚡️ 개발 기간
@@ -70,6 +70,7 @@
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=OpenAI&logoColor=white">
 <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white">
 <br>
+<br>
 
 ## ✨ Client 구성요소
 - React (18.2.0) : 클라이언트 개발에서 사용한 프레임워크
@@ -81,6 +82,7 @@
 - react-toastify (9.1.3) : 리액트에서 알림을 이용하기 위한 라이브러리
 - react-spinners (0.13.8) : 대기 중 스피너를 이용하기 위한 라이브러리
 <br>
+<br>
 
 ## 🌱 Server 구성요소
 - java 17 : 사용한 프로그래밍 언어
@@ -90,6 +92,7 @@
 - EC2 : 서버
 - RDS : 데이터베이스
 - S3: 이미지 저장
+<br>
 <br>
 
 ## 🧩 사용한 오픈소스
@@ -105,6 +108,7 @@ implementation 'com.theokanning.openai-gpt3-java:service:0.17.0'</code></pre>
 <pre><code>implementation 'io.jsonwebtoken:jjwt-api:0.11.5’</code></pre>
 
 <br>
+<br>
 
 
 
@@ -119,6 +123,7 @@ implementation 'com.theokanning.openai-gpt3-java:service:0.17.0'</code></pre>
     http→https 로 url 리디렉션하는 리스너 추가
 
 <br>
+<br>
 
 ## 🌤️ How to build
 1. git clone https://github.com/ewha-cse-HACK/HACK_client.git
@@ -126,6 +131,7 @@ implementation 'com.theokanning.openai-gpt3-java:service:0.17.0'</code></pre>
 3. [server 빌드 설정](https://github.com/ewha-cse-HACK/HACK_Server/blob/main/README.md#%EF%B8%8F-how-to-build)
 4. [client 빌드 설정](https://github.com/ewha-cse-HACK/HACK_client/tree/master#%EF%B8%8F-how-to-build)
 
+<br>
 <br>
 
 ## 🎮 How to test
@@ -141,6 +147,7 @@ implementation 'com.theokanning.openai-gpt3-java:service:0.17.0'</code></pre>
 1. postman 또는 chrome을 통해 [https://api.rainbow-letter.com/](https://api.rainbow-letter.com/community?page=1){테스트할_api} 로 API 조회 <br>
 2. https://rainbow-letter.com/{테스트할_api}로 view test <br>
 
+<br>
 <br>
 
 ## 👍 Developers
