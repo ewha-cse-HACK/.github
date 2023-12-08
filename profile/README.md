@@ -86,6 +86,20 @@
 - S3: 이미지 저장
 <br>
 
+## 🧩 사용한 오픈소스
+1. Open AI DALL-E
+<pre><code>implementation 'com.theokanning.openai-gpt3-java:client:0.17.0'
+implementation 'com.theokanning.openai-gpt3-java:service:0.17.0'</code></pre>
+
+참고
+[https://velog.io/@minji1289/Springboot-스프링부트로-DALL-E-API-호출하기](https://velog.io/@minji1289/Springboot-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8%EB%A1%9C-DALL-E-API-%ED%98%B8%EC%B6%9C%ED%95%98%EA%B8%B0)
+<br>
+<br>
+2. 로그인 JWT
+<pre><code>implementation 'io.jsonwebtoken:jjwt-api:0.11.5’</code></pre>
+
+<br>
+
 
 
 ## 🌟 How to install
