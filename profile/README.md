@@ -133,7 +133,6 @@ implementation 'com.theokanning.openai-gpt3-java:service:0.17.0'</code></pre>
 ### 배포 서버
 1. postman 또는 chrome을 통해 [https://api.rainbow-letter.com/](https://api.rainbow-letter.com/community?page=1){테스트할_api} 로 API 조회 <br>
 2. https://rainbow-letter.com/{테스트할_api}로 view test <br>
-
    [API 명세서](https://sour-actress-dea.notion.site/API-9cae104034e5467fbb01377553c0cd4c?pvs=4)
 
 <br>
