@@ -7,7 +7,14 @@
 <br>
 
 ###  https://rainbow-letter.com
+<details>
+<summary>무지개 편지의 포스터</summary>
+<div markdown="1">
+
 ![image](https://github.com/ewha-cse-HACK/.github/assets/67634926/b57cbd9e-42e4-4b60-a8c2-7c9a5cb87fa7)
+
+</div>
+</details>
 
 <br>
 
