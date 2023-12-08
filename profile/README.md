@@ -11,6 +11,53 @@
 
 <br>
 
+## 🎨 App UI
+
+<br>
+
+## 🖥️ Demo video
+[youtube] https://youtu.be/NFmeN01eHdY
+<br>
+<br>
+
+
+## 🚀 Version
+- 동작환경  chrome 119.0.6045.105
+- 개발환경  springboot 3.1.1, react 18.2.0
+- react, springboot
+<br>
+
+## ⚡️ 개발 기간
+2023.07.10. ~ 2023.11.24.
+<br>
+<br>
+
+## 🖼️ Project Architecture
+![image](https://github.com/ewha-cse-HACK/HACK_Server/assets/67634926/99676a61-6f99-48af-8b07-4c52f4c09ec5)
+<br>
+<br>
+
+
+## 💪 Teck stack
+<b>Client</b> <br>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/></a> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=Axios&logoColor=white"/></a>
+<br>
+<br>
+<b>Server</b> <br>
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
+<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
+<img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=OpenAI&logoColor=white">
+<br>
+
 ## ✨ Client 구성요소
 - Axios ^1.5.0 : Promise 기반의 HTTP 통신 라이브러리로 백엔드에 api 요청을 보낼 때 사용
 - styled-component ^6.0.8 : React 컴포넌트를 스타일링하기 위한 CSS-in-JS 라이브러리
@@ -39,50 +86,7 @@
 - S3: 이미지 저장
 <br>
 
-## 🚀 Version
-- 동작환경  chrome 119.0.6045.105
-- 개발환경  springboot 3.1.1, react 18.2.0
-- react, springboot
-<br>
 
-## ⚡️ 개발 기간
-2023.07.10. ~ 2023.11.24.
-<br>
-<br>
-
-## 🛠️Project Architecture
-![image](https://github.com/ewha-cse-HACK/HACK_Server/assets/67634926/99676a61-6f99-48af-8b07-4c52f4c09ec5)
-<br>
-<br>
-
-## 💪 Teck stack
-<b>Client</b> <br>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/></a> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=Axios&logoColor=white"/></a>
-<br>
-<br>
-<b>Server</b> <br>
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-<img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
-<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
-<img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=OpenAI&logoColor=white">
-<br>
-
-## 🎨 App UI
-
-<br>
-
-## 🖥️ Demo video
-[youtube] https://youtu.be/NFmeN01eHdY
-<br>
-<br>
 
 ## 🌟 How to install
 1. [server 환경 설정](https://github.com/ewha-cse-HACK/HACK_Server/blob/main/README.md#-how-to-install)
@@ -106,7 +110,6 @@
 
 ## 🎮 How to test
 ### local
-<br>
 1. git clone https://github.com/ewha-cse-HACK/HACK_Server.git <br>
 2. git clone https://github.com/ewha-cse-HACK/HACK_client.git <br>
 3. postman에서 [http://localhost:8080/](http://localhost:8080/community/1){테스트할_URL} 를 통해 API 조회 <br>
@@ -114,11 +117,10 @@
 <br>
 
 ### 배포 서버
-
 1. postman 또는 chrome을 통해 [https://api.rainbow-letter.com/](https://api.rainbow-letter.com/community?page=1){테스트할_api} 로 API 조회 <br>
 2. https://rainbow-letter.com/{테스트할_api}로 view test <br>
 
-[API 명세서](https://sour-actress-dea.notion.site/API-9cae104034e5467fbb01377553c0cd4c?pvs=4)
+   [API 명세서](https://sour-actress-dea.notion.site/API-9cae104034e5467fbb01377553c0cd4c?pvs=4)
 
 <br>
 
@@ -143,9 +145,8 @@
     </tr>
 </table>
 <br>
-
 <br>
 
 ## 💌 Contact
-hackewha2023@gmail.com
+   hackewha2023@gmail.com
 
