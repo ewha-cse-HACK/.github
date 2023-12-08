@@ -26,7 +26,7 @@
 <br>
 
 ## 🎨 App UI
-
+![App UI](https://github.com/ewha-cse-HACK/.github/assets/100411946/00d5c0db-9ac1-49ac-a4e6-e46b8a9ef91d)
 <br>
 
 ## 🖥️ Demo video
