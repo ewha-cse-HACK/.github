@@ -26,7 +26,7 @@
 
 ## 🎨 App UI
 
-<img src="https://github.com/ewha-cse-HACK/.github/assets/100411946/00d5c0db-9ac1-49ac-a4e6-e46b8a9ef91d" {width="80%"}>
+![App UI](https://github.com/ewha-cse-HACK/.github/assets/100411946/86ce893b-7a41-485d-bf9e-936a662718a3)
 
 <br>
 <br>
