@@ -120,9 +120,9 @@ implementation 'com.theokanning.openai-gpt3-java:service:0.17.0'</code></pre>
 2. [client 환경 설정](https://github.com/ewha-cse-HACK/HACK_client/tree/master#-how-to-install)
 3. ACM 인증서 발급
     *.rainbow-letter.com, [www.rainbow-letter.com](http://www.rainbow-letter.com)  등록
-4. 로드 밸런서 리스너 편집
+4. 로드 밸런서 리스너 편집 <br>
     리스너 구성을 http, 80 → https, 443 변경
-5. 로드 밸런서 리스너 추가
+5. 로드 밸런서 리스너 추가 <br>
     http→https 로 url 리디렉션하는 리스너 추가
 
 <br>
